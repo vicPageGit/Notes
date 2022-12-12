@@ -1,0 +1,16 @@
+.App {
+  width: 70vw;
+  min-height: 100vh;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.button-scroll-to {
+  width: 60px;
+  height: 60px;
+  color: #111;
+  cursor: pointer;
+}
